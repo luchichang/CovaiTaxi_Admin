@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "456666985558",
+    "firebase_url": "https://silver-drop-taxi-3b2e9-default-rtdb.firebaseio.com",
+    "project_id": "silver-drop-taxi-3b2e9",
+    "storage_bucket": "silver-drop-taxi-3b2e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456666985558:android:1026d52dcfe9553877f7f7",
+        "android_client_info": {
+          "package_name": "com.thereciprocalsolutions.admin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456666985558-cp95cr9olv2ukjjh7udpuh6udcdoaapq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0XRmmqNSLhIYnAgN6ztpiPaPpeUklmQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456666985558-cp95cr9olv2ukjjh7udpuh6udcdoaapq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456666985558:android:b20d708cd14ed1cc77f7f7",
+        "android_client_info": {
+          "package_name": "com.thereciprocalsolutions.silvertaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456666985558-gdhc7sl6e9neu12hgisa7u7qmcd8p1kk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thereciprocalsolutions.silvertaxi",
+            "certificate_hash": "e2b7d91b8937075f998ef442b0ceef0309d16a84"
+          }
+        },
+        {
+          "client_id": "456666985558-cp95cr9olv2ukjjh7udpuh6udcdoaapq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0XRmmqNSLhIYnAgN6ztpiPaPpeUklmQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456666985558-cp95cr9olv2ukjjh7udpuh6udcdoaapq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456666985558:android:cd4083599b35b07677f7f7",
+        "android_client_info": {
+          "package_name": "com.thereciprocalsolutions.silvertaxidriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456666985558-7p6lnd3v6545f5o2feb3u41dk46ounij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thereciprocalsolutions.silvertaxidriver",
+            "certificate_hash": "e2b7d91b8937075f998ef442b0ceef0309d16a84"
+          }
+        },
+        {
+          "client_id": "456666985558-cp95cr9olv2ukjjh7udpuh6udcdoaapq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0XRmmqNSLhIYnAgN6ztpiPaPpeUklmQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456666985558-cp95cr9olv2ukjjh7udpuh6udcdoaapq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
